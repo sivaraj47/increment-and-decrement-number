@@ -1,0 +1,22 @@
+.container{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#ddff;
+  padding:10px;
+}
+button{
+  padding:10px;
+  border:none;
+  margin:4px;
+  border-radius:5px;
+  outliner:none;
+  background:#fb8899;
+  font-size:19px;
+}
+span{
+  //background:#ffddcc;
+  padding:8px;
+  border-radius:5px;
+  font-size:24px;
+}
